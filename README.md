@@ -1,7 +1,7 @@
 # ETL-project
 
-![ingles](imagenes/English-as-a-global-language.jpg)
-## CONTEXTO Y OBJETIVO DEL PROYECTO
+!(imagenes/English-as-a-global-language.jpg)
+##CONTEXTO Y OBJETIVO DEL PROYECTO
 
 Ofrecemos voluntariado a personas de habla inglesa alrededor del mundo para que vengan a compartir una o dos semanas con personas interesadas en mejorar su nivel de inglés.
 Los campamentos que se ofrecen pueden ser para adultos o para 'teens' y la duración varía entre 1 o 2 semanas.
@@ -16,7 +16,7 @@ Queremos probar las siguientes hipótesis:
 - A raíz del COVID el numero de solicitudes para hacer voluntariado bajó significativamente, pero el número de solicitudes recibidas tiene una tendencia al alza
 - Más del 50% de los voluntarios que han participado en programas después del COVID son veteranos que han hecho más de 2 programas.
 
-## PASOS QUE VAMOS A SEGUIR
+##PASOS QUE VAMOS A SEGUIR
 
 A título informativo, la información privada que aparece en el dataframe ha sido generada con la libreria FAKER (from faker import Faker), pero se han mantenido reales el sexo y la nacionalidad para no distorsionar los datos obtenidos.
 
